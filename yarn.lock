@@ -1420,6 +1420,11 @@ acorn@^8.4.1, acorn@^8.7.0, acorn@^8.7.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.1.tgz#0197122c843d1bf6d0a5e83220a788f278f63c30"
   integrity sha512-Xx54uLJQZ19lKygFXOWsscKUbsBZW0CPykPhVQdhIeIwrbPmJzqeASDInc8nKBnp/JT6igTs82qPXz069H8I/A==
 
+acorn@^8.5.0:
+  version "8.8.0"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.8.0.tgz#88c0187620435c7f6015803f5539dae05a9dbea8"
+  integrity sha512-QOxyigPVrpZ2GXT+PFyZTl6TtOFc5egxHIP9IlQ+RbupQuX4RkT/Bee4/kQuC02Xkzg84JcT7oLYtDIQxp+v7w==
+
 addons-linter@4.14.0:
   version "4.14.0"
   resolved "https://registry.yarnpkg.com/addons-linter/-/addons-linter-4.14.0.tgz#e8a5b99665a7e7df3fda2da42d73593fea8db3f9"
@@ -8117,10 +8122,10 @@ plur@^5.1.0:
   dependencies:
     irregular-plurals "^3.3.0"
 
-postcss-less@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/postcss-less/-/postcss-less-5.0.0.tgz#3fa361ed8e52a9c3e6e4fdb9bb95fd9032f3c62b"
-  integrity sha512-djK6NlApALJeBnNx7CzLatq64eMF3BCyzBH+faYPxrvNHHM/YCimJ6XQkgWgtim2G89EzdQG4Ed0lGNCXPfD7A==
+postcss-less@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/postcss-less/-/postcss-less-6.0.0.tgz#463b34c60f53b648c237f569aeb2e09149d85af4"
+  integrity sha512-FPX16mQLyEjLzEuuJtxA8X3ejDLNGGEG503d2YGZR5Ask1SpDN8KmZUMpzCvyalWRywAn1n1VOA5dcqfCLo5rg==
 
 postcss-modules-extract-imports@1.1.0:
   version "1.1.0"
